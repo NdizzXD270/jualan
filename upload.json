@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1770551339211,
+    "name": "Akun Free Fire",
+    "description": "Free Fire",
+    "price": 20000,
+    "originalPrice": 20000,
+    "discount": 0,
+    "category": "Akun",
+    "stock": 1,
+    "weight": 0,
+    "image": "https://raw.githubusercontent.com/NdizzXD270/jualan/main/products/2026/02/08/1770551336975_755975.jpg",
+    "fileName": "1770551336975_755975.jpg",
+    "fileSha": "6a16eefefd7e2c2724caebec6b2257c982b38e0a",
+    "uploadDate": "2026-02-08T11:48:59.211Z",
+    "uploadedBy": "NdizzXD"
+  }
+]
