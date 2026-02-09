@@ -14,5 +14,21 @@
     "fileSha": "6a16eefefd7e2c2724caebec6b2257c982b38e0a",
     "uploadDate": "2026-02-08T11:48:59.211Z",
     "uploadedBy": "NdizzXD"
+  },
+  {
+    "id": 1770637494601,
+    "name": "Fff",
+    "description": "Ff",
+    "price": 990000,
+    "originalPrice": 1000000,
+    "discount": 1,
+    "category": "Akun",
+    "stock": 1,
+    "weight": 0,
+    "image": "https://raw.githubusercontent.com/NdizzXD270/jualan/main/products/2026/02/09/1770637492072_220798.jpg",
+    "fileName": "1770637492072_220798.jpg",
+    "fileSha": "84fe8b38e0267bea3ff58cc25ae99c36aad756a6",
+    "uploadDate": "2026-02-09T11:44:54.601Z",
+    "uploadedBy": "NdizzXD"
   }
 ]
